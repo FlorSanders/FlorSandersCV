@@ -1,0 +1,27 @@
+{
+  "name": "flor-sanders-cv",
+  "version": "1.0.0",
+  "description": " Curriculum Vitae of Flor Sanders. ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlorSanders/FlorSandersCV.git"
+  },
+  "keywords": [
+    "CV"
+  ],
+  "author": "Flor Sanders (me@florsanders.be)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FlorSanders/FlorSandersCV/issues"
+  },
+  "homepage": "https://github.com/FlorSanders/FlorSandersCV#readme",
+  "dependencies": {
+    "handlebars": "^4.7.7",
+    "puppeteer": "^15.3.0"
+  }
+}
