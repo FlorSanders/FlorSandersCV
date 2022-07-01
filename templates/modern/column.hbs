@@ -1,0 +1,15 @@
+<li class="flex flex-row">
+  <p class="w-24 mr-4 min-w-24 text-right text-sm">{{label}}</p>
+  <div class="max-w-fit">
+    {{#if title}}
+    <p class="font-bold">
+      {{title}}<span class="font-normal">{{#if at}}, {{at}}</span>{{/if}}
+    </p>
+    {{/if}}
+    {{#if description}}
+    <p class="italic text-sm text-justify">
+      {{description}}
+    </p>
+    {{/if}}
+  </div>
+</li>
