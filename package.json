@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/FlorSanders/FlorSandersCV#readme",
   "dependencies": {
+    "commander": "^9.3.0",
+    "filewatcher": "^3.0.1",
     "handlebars": "^4.7.7",
     "puppeteer": "^15.3.0"
   }
