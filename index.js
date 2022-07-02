@@ -20,7 +20,7 @@ const main = async (options) => {
     // Check if template exists
     const templatePath = path.join("templates", `${template}.hbs`);
     if (!fs.existsSync(templatePath))
-      throw new Error(`Template ${templateName} does not exist`);
+      throw new Error(`Template ${template} does not exist`);
     // Build CV
     if (watch) {
       // Continuously
