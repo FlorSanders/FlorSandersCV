@@ -1,11 +1,15 @@
 const hbs = require("handlebars");
 const fs = require("fs");
+const path = require("path");
 
 const helpers = [
   {
     label: "img",
     helper: (filename) => {
-      const imgBase64 = fs.readFileSync(`./${filename}`, "base64");
+      const imgBase64 = fs.readFileSync(
+        path.join("assets", filename),
+        "base64"
+      );
       return `data:image/png;base64,${imgBase64}`;
     },
   },

@@ -2,7 +2,7 @@ const commander = require("commander");
 const filewatcher = require("filewatcher");
 const path = require("path");
 const fs = require("fs");
-const { generateCV } = require("./generateCV.js");
+const { generateCV } = require("./utils/generateCV.js");
 
 // Parse CLI arguments
 commander
