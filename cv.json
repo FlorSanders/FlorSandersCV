@@ -14,20 +14,20 @@
     {
       "start-date": "2020-09-01",
       "end-date": "2023-06-30",
-      "label": "MSc. Electrical Engineering: CIT",
+      "label": "MSc. electrical engineering: CIT",
       "at": "Ghent university"
     },
     {
       "start-date": "2017-09-01",
       "end-date": "2020-06-30",
-      "label": "BSc. Electrical Engineering",
+      "label": "BSc. electrical engineering",
       "at": "Ghent university",
       "description": "Summa cum laude - GPA: 862/1000"
     },
     {
       "start-date": "2011-09-01",
       "end-date": "2017-06-30",
-      "label": "Mathematics-Science",
+      "label": "Mathematics-science",
       "at": "Sint-Victor Alsemberg"
     }
   ],
@@ -86,7 +86,7 @@
     {
       "start-date": "2021-04-08",
       "end-date": "2021-04-13",
-      "label": "Student Startup Trip",
+      "label": "Student startup trip",
       "at": "AFT Leuven",
       "description": "Selected to be among 35 Flemish students to explore the Belgian startup and scaleup scene during the Easter holidays."
     },
@@ -100,7 +100,7 @@
     {
       "start-date": "2015-07-01",
       "end-date": "2021-08-31",
-      "label": "Cook & Kitchen Chef",
+      "label": "Cook & kitchen chef",
       "at": "Clip Taalvakanties",
       "description": "Prepared 4 to 5 fresh meals per day for groups of up to 160 people at summer camps for learning the French language."
     },
@@ -114,7 +114,7 @@
   ],
   "skills": [
     {
-      "category": "Electrical Engineering",
+      "category": "Electrical engineering",
       "skills": [
         "Keysight ADS",
         "CST Studio Suite",
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "category": "Software Development",
+      "category": "Software development",
       "skills": [
         "Python",
         "JS",
@@ -142,11 +142,12 @@
         "SPARQL",
         "Scikit-learn",
         "OpenCV",
-        "Pandas"
+        "Pandas",
+        "Spark"
       ]
     },
     {
-      "category": "3D Printing",
+      "category": "3D printing",
       "skills": [
         "Autodesk Fusion 360",
         "PrusaSlicer",
@@ -159,6 +160,7 @@
         "Linux",
         "Git",
         "Github actions",
+        "Docker",
         "VS Code",
         "Latex",
         "Markdown"
