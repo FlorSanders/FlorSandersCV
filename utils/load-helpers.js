@@ -18,7 +18,7 @@ const helpers = [
     helper: (start, end) => {
       const startYear = new Date(start).getFullYear();
       const endYear =
-        end && end !== "present" ? new Date(end).getFullYear() : "now";
+        end && end !== "present" ? new Date(end).getFullYear() : "present";
       if (startYear === endYear) {
         return endYear;
       } else {
