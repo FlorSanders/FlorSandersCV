@@ -1,9 +1,9 @@
 {
   "name": "Flor Sanders",
-  "statement": "An ambitious and dynamic engineer with a broad technical background, who is on a mission to solve real-world practical problems using innovative technologies.",
+  "statement": "A young and ambitious engineer with a broad technical background who is committed to leveraging cutting-edge technologies to create positive impact in our world.",
   "image": "img.jpg",
   "contact": {
-    "location": "Halle, Belgium",
+    "location": "Ghent, Belgium",
     "birthdate": "1999-07-06",
     "phone": "0479873490",
     "email": "me@florsanders.be",
@@ -12,107 +12,124 @@
   },
   "education": [
     {
+      "start-date": "2023-09-01",
+      "end-date": "2024-05-15",
+      "label": "Msc. Electrical Engineering",
+      "focus": "Deep Learning & AI",
+      "at": "Columbia University"
+    },
+    {
       "start-date": "2020-09-01",
       "end-date": "2023-06-30",
-      "label": "MSc. electrical engineering: CIT",
-      "at": "Ghent university"
+      "label": "MSc. Electrical Engineering",
+      "focus": "Communication Technology",
+      "at": "Ghent university",
+      "description": "Summa cum laude - GPA: 908/1000"
     },
     {
       "start-date": "2017-09-01",
       "end-date": "2020-06-30",
-      "label": "BSc. electrical engineering",
+      "label": "BSc. Electrical Engineering",
       "at": "Ghent university",
       "description": "Summa cum laude - GPA: 862/1000"
-    },
-    {
-      "start-date": "2011-09-01",
-      "end-date": "2017-06-30",
-      "label": "Mathematics-science",
-      "at": "Sint-Victor Alsemberg"
     }
   ],
   "experience": [
     {
+      "start-date": "2022-10-01",
+      "end-date": "2023-06-30",
+      "label": "Freelance Engineering Consultant",
+      "at": "Heliovision / Botko",
+      "description": "Integrated machine vision technology with industrial and collaborative robots to build solutions for quality assurance and industrial automation projects."
+    },
+    {
       "start-date": "2021-09-01",
       "end-date": "2022-05-30",
-      "label": "Freelance full-stack web developer",
-      "at": "Crunch Analytics",
-      "description": "Built a full-stack webapp to manage, create, send and analyze surveys using React, GraphQL and Node.js."
+      "label": "Freelance Full-Stack Web Developer",
+      "at": "Crunch Analytics / Alert! Opleidingen",
+      "description": "Built a fast and reliable web application to manage, create and send surveys and implemented tools and automations for analysis of the results."
     },
     {
       "start-date": "2021-03-01",
       "end-date": "2021-08-31",
-      "label": "Freelance full-stack web developer",
+      "label": "Freelance Full-stack Web Developer",
       "at": "Redpencil.io",
       "description": "Resolved technical debt in Ember.js projects powered by semantic data models for the Flemish government and Wageningen UR."
     },
     {
-      "start-date": "2020-08-01",
-      "end-date": "2020-09-15",
-      "label": "Research intern",
+      "start-date": "Summer 2020",
+      "end-date": "Summer 2020",
+      "label": "Research Intern",
       "at": "District09",
       "description": "Researched the use of Solid Pods to store IoT sensor data in a distributed network."
-    },
-    {
-      "start-date": "2019-08-01",
-      "end-date": "2019-08-31",
-      "label": "Frontend web developer - student job",
-      "at": "Freija's Optiek",
-      "description": "Designed and developed a website for my mother's optician shop, using HTML, CSS and Vanilla JS."
-    },
-    {
-      "start-date": "2016-09-01",
-      "end-date": "2018-06-30",
-      "label": "On-demand 3D printing service",
-      "at": "Self-employed",
-      "description": "Offered an on-demand 3D printing service on the 3D hubs platform with a focus on affordable prices, happy clients and rapid turnovers."
     }
   ],
   "extracurriculars": [
     {
       "start-date": "2022-09-01",
-      "end-date": "present",
-      "label": "Assistent chef course",
+      "end-date": "2023-06-30",
+      "label": "Assistent Chef Course",
       "at": "CVO Gent",
       "description": "Following classes to further improve my cooking skills, allowing me to provide the people around me with tasty and healthy meals."
     },
     {
       "start-date": "2019-09-01",
-      "end-date": "present",
-      "label": "Student body representative",
-      "at": "UGent",
+      "end-date": "2023-06-30",
+      "label": "Student Representative",
+      "at": "Ghent University",
       "description": "Defending the interests of students in various committees at the Faculty of Engineering and Architecture."
     },
     {
-      "start-date": "2021-04-08",
-      "end-date": "2021-04-13",
-      "label": "Student startup trip",
+      "start-date": "Easter Break 2021",
+      "end-date": "Easter Break 2021",
+      "label": "Student Startup Trip",
       "at": "AFT Leuven",
       "description": "Selected to be among 35 Flemish students to explore the Belgian startup and scaleup scene during the Easter holidays."
     },
     {
       "start-date": "2020-09-01",
       "end-date": "2021-06-30",
-      "label": "Praesidium member",
+      "label": "Member of Praesidium",
       "at": "VTK Gent & FRiS",
       "description": "Managed the finances of the faculty student council.\nHelped students navigate their studies during the covid pandemic."
     },
     {
       "start-date": "2015-07-01",
       "end-date": "2021-08-31",
-      "label": "Cook & kitchen chef",
+      "label": "Cook & Kitchen Chef",
       "at": "Clip Taalvakanties",
       "description": "Prepared 4 to 5 fresh meals per day for groups of up to 160 people at summer camps for learning the French language."
     },
     {
-      "start-date": "2019-07-12",
-      "end-date": "2019-07-27",
-      "label": "Seeds for the future programme",
+      "start-date": "Summer 2019",
+      "end-date": "Summer 2019",
+      "label": "Seeds for the Future",
       "at": "Huawei",
       "description": "Selected to be among 10 Belgian students to visit Huawei's headquarters in Shenzhen and learn about 5G technology over the summer holidays."
     }
   ],
   "skills": [
+    {
+      "category": "Deep Learning & AI",
+      "skills": ["PyTorch", "TensorFlow", "HLS4ML", "Scikit-Learn"]
+    },
+    {
+      "category": "Software Development",
+      "skills": [
+        "Python",
+        "JS",
+        "HTML",
+        "CSS",
+        "React",
+        "Ember.js",
+        "Svelte",
+        "Node.js",
+        "Solid",
+        "SQL",
+        "GraphQL",
+        "SPARQL"
+      ]
+    },
     {
       "category": "Electrical engineering",
       "skills": [
@@ -121,48 +138,20 @@
         "Xilinx Vivado",
         "Eagle PCB",
         "KiCad",
-        "Arduino",
-        "Soldering",
-        "Measurements & Analysis"
+        "SystemC",
+        "VHDL"
       ]
     },
     {
-      "category": "Software development",
-      "skills": [
-        "Python",
-        "JS",
-        "HTML",
-        "CSS",
-        "React",
-        "Ember.js",
-        "Node.js",
-        "Solid",
-        "SQL",
-        "GraphQL",
-        "SPARQL",
-        "Scikit-learn",
-        "OpenCV",
-        "Pandas",
-        "Spark"
-      ]
-    },
-    {
-      "category": "3D printing",
-      "skills": [
-        "Autodesk Fusion 360",
-        "PrusaSlicer",
-        "Ultimaker Cura"
-      ]
-    },
-    {
-      "category": "Tooling",
+      "category": "Tooling & Infrastructure",
       "skills": [
         "Linux",
+        "GCP",
         "Git",
         "Github actions",
         "Docker",
         "VS Code",
-        "Latex",
+        "LaTeX",
         "Markdown"
       ]
     }
@@ -182,10 +171,10 @@
     }
   ],
   "strengths": [
+    "Communicative",
     "Team player",
     "Entrepreneurial",
-    "Independent",
-    "Curious",
-    "Communicative"
+    "Problem solving",
+    "Curious"
   ]
 }

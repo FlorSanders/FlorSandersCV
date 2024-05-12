@@ -25,7 +25,7 @@ const main = async (options) => {
     if (watch) {
       // Continuously
       const watcher = filewatcher();
-      watcher.add(path.join("cv.json"));
+      watcher.add(path.join("./assets/cv.json"));
       watcher.add(templatePath);
       watcher.on("change", (_file, stat) => {
         if (stat) generateCV(templatePath);
