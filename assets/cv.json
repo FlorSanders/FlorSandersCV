@@ -14,24 +14,25 @@
     {
       "start-date": "2023-09-01",
       "end-date": "2024-05-15",
-      "label": "Msc. Electrical Engineering",
+      "label": "MSc. Electrical Engineering",
       "focus": "Deep Learning & AI",
-      "at": "Columbia University"
+      "at": "Columbia University",
+      "description": "Straight A Student - GPA: 4.165/4"
     },
     {
       "start-date": "2020-09-01",
       "end-date": "2023-06-30",
       "label": "MSc. Electrical Engineering",
       "focus": "Communication Technology",
-      "at": "Ghent university",
-      "description": "Summa cum laude - GPA: 908/1000"
+      "at": "Ghent University",
+      "description": "Summa Cum Laude - GPA: 908/1000"
     },
     {
       "start-date": "2017-09-01",
       "end-date": "2020-06-30",
       "label": "BSc. Electrical Engineering",
-      "at": "Ghent university",
-      "description": "Summa cum laude - GPA: 862/1000"
+      "at": "Ghent University",
+      "description": "Summa Cum Laude - GPA: 862/1000"
     }
   ],
   "experience": [
@@ -47,7 +48,7 @@
       "end-date": "2022-05-30",
       "label": "Freelance Full-Stack Web Developer",
       "at": "Crunch Analytics / Alert! Opleidingen",
-      "description": "Built a fast and reliable web application to manage, create and send surveys and implemented tools and automations for analysis of the results."
+      "description": "Built a fast and reliable web application to manage, create and send surveys. Implemented tools and automations for analysis of the results."
     },
     {
       "start-date": "2021-03-01",
